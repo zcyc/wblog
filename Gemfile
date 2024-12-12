@@ -8,7 +8,7 @@ gem 'sass-rails', '>= 6'
 gem 'webpacker', '~> 5.0'
 gem 'turbo-rails', '~> 0.7'
 gem 'jbuilder', '~> 2.7'
-gem 'bootsnap', '>= 1.4.4', require: false
+gem 'bootsnap', '>= 1.7.7', require: false
 gem 'stimulus-rails'
 
 gem 'rexml', '~> 3.2', '>= 3.2.4'
