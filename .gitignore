@@ -50,3 +50,7 @@ yarn-debug.log*
 .env
 .byebug_history
 .DS_Store
+
+.1024*
+!.1024
+.breakpoints
