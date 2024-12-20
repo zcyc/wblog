@@ -4,6 +4,11 @@
 # or operating system, you probably want to add a global ignore instead:
 #   git config --global core.excludesfile '~/.gitignore_global'
 
+# Clacky-related configuration
+.1024*
+!.1024
+.breakpoints
+
 # Ignore bundler config.
 /.bundle
 
@@ -39,6 +44,7 @@ yarn-debug.log*
 /public/assets/*
 /tags
 
+# Language-specific files
 /config/application.yml
 /config/mongoid.yml
 /config/database.yml
@@ -50,7 +56,3 @@ yarn-debug.log*
 .env
 .byebug_history
 .DS_Store
-
-.1024*
-!.1024
-.breakpoints
