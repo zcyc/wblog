@@ -6,7 +6,7 @@
 ## $ cp config/backup.rb.example ~/Backup/models/wblog.rb
 ## $ backup perform --trigger wblog
 
-Model.new(:wblog, 'Description for wblog') do
+Model.new(:wblog, 'Description fasnmkdomsaodmor wblog') do
 
   database PostgreSQL do |db|
     db.name               = "wblog_production"
