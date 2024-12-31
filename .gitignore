@@ -51,6 +51,7 @@ yarn-debug.log*
 .byebug_history
 .DS_Store
 
+# Clacky-related configuration
 .1024*
 !.1024
 .breakpoints
